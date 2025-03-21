@@ -14,10 +14,10 @@ I'm a **Data Analyst & Power BI Developer** passionate about transforming raw da
 - **BI & Visualization**: Power BI, DAX, Data Cleaning, Dashboard Design
 - **Other**: Python
 
-## 📚 Ongoing Learning
+## Ongoing Learning
 Currently enhancing my expertise in **Power BI Development**  and working on **new analytical projects**.
 
-## 📫 Connect with Me
+## Connect with Me
 - **LinkedIn**: [www.linkedin.com/in/
 rutikesh-wagh-3ba353224
 ](www.linkedin.com/in/
